@@ -1,0 +1,2 @@
+alias todev="cd ~/projects/"
+alias ll="ls -alF"
